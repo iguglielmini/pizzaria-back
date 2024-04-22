@@ -13,3 +13,5 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+
+tmp/
